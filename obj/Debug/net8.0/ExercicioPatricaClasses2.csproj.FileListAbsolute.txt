@@ -1,0 +1,14 @@
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\bin\Debug\net8.0\ExercicioPatricaClasses2.exe
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\bin\Debug\net8.0\ExercicioPatricaClasses2.deps.json
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\bin\Debug\net8.0\ExercicioPatricaClasses2.runtimeconfig.json
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\bin\Debug\net8.0\ExercicioPatricaClasses2.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\bin\Debug\net8.0\ExercicioPatricaClasses2.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.AssemblyInfoInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.AssemblyInfo.cs
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.csproj.CoreCompileInputs.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\refint\ExercicioPatricaClasses2.dll
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.pdb
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ExercicioPatricaClasses2.genruntimeconfig.cache
+C:\temp\ws-c#orientadoobjeto\ExercicioPatricaClasses2\ExercicioPatricaClasses2\obj\Debug\net8.0\ref\ExercicioPatricaClasses2.dll
